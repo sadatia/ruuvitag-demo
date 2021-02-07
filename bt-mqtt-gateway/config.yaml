@@ -1,8 +1,8 @@
 mqtt:
-  host: localhost
+  host: thingsboard.io
   port: 1883
-  topic_prefix: bt-mqtt-gateway
-  client_id: bt-mqtt-gateway
+  topic_prefix: /v1/gateway/telemetry
+  client_id: rzt00PbrpHSMYkvCxiRO
   availability_topic: availability
 
 manager:
