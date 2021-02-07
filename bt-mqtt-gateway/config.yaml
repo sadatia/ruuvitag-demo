@@ -1,7 +1,7 @@
 mqtt:
   host: thingsboard.io
   port: 1883
-  topic_prefix: /v1/gateway/telemetry
+  topic_prefix: v1/gateway/telemetry
   client_id: rzt00PbrpHSMYkvCxiRO
   availability_topic: availability
 
